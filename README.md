@@ -1,4 +1,4 @@
-Titanic Survival Analysis
+#Titanic Survival Analysis
 
 This R script examines the passenger data from the Titanic using the data.table and ggplot2 libraries. The Titanic data is converted into data.table at the beginning of the script and several columns' data types are changed.
 
