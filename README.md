@@ -8,3 +8,9 @@ Embark on a journey through the Titanic Survival Analysis project, where we navi
 * Visualize trends through captivating charts and plots.
 * Unearth the stories hidden within the Titanic's data, revealing patterns that shaped destinies.
 
+## How to work on the project?
+** Coming soon...... ** 
+
+## Find a bug?
+
+If you encounter any issues or wish to suggest improvements for this project, kindly submit an issue using the "Issues" tab above. In case you'd like to contribute a fix, please submit a pull request (PR) and reference the corresponding issue you created.
